@@ -1,4 +1,4 @@
-# Build-Data-Dashboards
+# Build Data Dashboards
 Udacity - Data Foundations Nanodegree
 ## Project Introduction Directions
 ### Project Description
